@@ -107,4 +107,5 @@ XUNIT_RESULT*.xml
 # clang config (for LSP)
 .clangd
 
-# Vale
+sdkconfig
+sdkconfig.old
